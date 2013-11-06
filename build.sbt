@@ -5,7 +5,7 @@ name := "sample"
 scalaVersion := "2.10.3"
 
 libraryDependencies ++= Seq(
-  "net.databinder" %% "unfiltered-filter" % "0.6.4",
+  "net.databinder" %% "unfiltered-filter" % "0.7.0",
   "javax.servlet" % "servlet-api" % "2.5" % "provided",
   "org.mortbay.jetty" % "jetty" % "6.1.22" % "container"
 )
